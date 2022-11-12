@@ -40,7 +40,7 @@
     "run-all": "^1.0.1",
     "saucelabs": "^4.4.1",
     "selenium-webdriver": "^4.0.0-alpha.7",
-    "serve": "^11.3.2",
+    "serve": "^14.1.1",
     "tiny-glob": "^0.2.6"
   },
   "dependencies": {}
